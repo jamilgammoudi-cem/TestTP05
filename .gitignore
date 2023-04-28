@@ -19,7 +19,7 @@ mono_crash.*
 # Build results
 [Dd]ebug/*
 ![Dd]ebug/Chansons
-![Dd]ebug/Chansons avec bugs/
+![Dd]ebug/Chansons\ avec\ bugs
 
 [Dd]ebugPublic/
 [Rr]elease/
